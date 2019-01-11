@@ -43,8 +43,8 @@ def face_ditection(resp, im):
 if __name__ == '__main__':
 
     ENDPOINT_URL = 'https://vision.googleapis.com/v1/images:annotate'
-    API_KEY = 'AIzaSyBCPU4CLhm_TwguXXXFYSvz20wWPqad1Rc'
-    FILE_NAME ="images/trm02.jpg"
+    API_KEY = ''
+    FILE_NAME ="images/toshimio01.jpg"
 
     img_requests = []
 
